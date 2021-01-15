@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 GCP Certificate
 - Google Cloud Platform Collaboration Engineer Professional
+- Google Cloud Platform Data Engineer Professional
