@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lllilllilllilili&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+Certificate
 Google Cloud Platform Data Engineer Professional
 
+Join
 [Google Cloud Smart Analysis!](https://www.cctvnews.co.kr/news/articleView.html?idxno=225856)
