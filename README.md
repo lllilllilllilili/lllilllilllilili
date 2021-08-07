@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 - 냉장고 식재료로 추천 레시피 서비스(석빙고) 개발
 - 정보처리기사 취득
 - GS WiseN Team 입사 (데이터 엔지니어 포지션)
+- GCP를 활용한 IT분야별 트렌드 분석(Web Application) 서비스 개발
 
 `2021`
 
