@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 `2021`
 
 - MyTour 여행 스케줄 관리 웹앱 서비스 개발 중(공부)
-- Google Cloud Platform 스마트 분석 세미나 연설자로 참여
+- Google Cloud Platform 스마트 분석 세미나 강연자 참여
 - Google Cloud Platform Data Engineer Pro 취득
 - Amazon Web Service Architect Pro 취득(예정)
 - Amazon Web Service DevOps Pro 취득(예정)
