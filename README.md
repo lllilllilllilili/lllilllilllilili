@@ -34,29 +34,29 @@ Here are some ideas to get you started:
 `2018`
 
 - 007 공대 연합동아리 활동(3월~6월)
-- 블랙박스 앱 서비스 개발
-- 심박동 측정 SW 개발(OS단에서 POSIX 라이브러리 활용)
+- 블랙박스 앱 서비스 개발 (학부)
+- 심박동 측정 SW 개발(학부, OS단에서 POSIX 라이브러리 활용)
 
 `2019`
 
-- Unity를 활용한 방탈출 시뮬레이션 앱 개발 공동참여 (출시)
-- SOOHO.IO 스타트업에서 데이터부서에 이더리움 지도 서비스 개발
+- Unity를 활용한 방탈출 시뮬레이션 앱 개발 공동참여 (출시, 학부)
+- SOOHO.IO 스타트업에서 데이터부서에 이더리움 지도 서비스 개발(인턴)
 - 바킹덕 주관 알고리즘 특강 참여(서울대학교)
 - SAMSUNG SOFTWARE ACADEMY 입과
-- 식품 안전 먹거리 서비스 개발
+- 식품 안전 먹거리 서비스 개발(교육)
 
 `2020`
 
 - SAMSUNG SOFTWARE ACADEMY 아이디어 경진대회 1등
-- 사용자 참여형 맛집 추천 서비스(리슐랭) 개발
-- 냉장고 식재료로 추천 레시피 서비스(석빙고) 개발
+- 사용자 참여형 맛집 추천 서비스(리슐랭) 개발(교육)
+- 냉장고 식재료로 추천 레시피 서비스(석빙고) 개발(교육)
 - 정보처리기사 취득
 - GS WiseN Team 입사 (데이터 엔지니어 포지션)
-- GCP를 활용한 IT분야별 트렌드 분석(Web Application) 서비스 개발
+- GCP를 활용한 IT분야별 트렌드 분석(Web Application) 서비스 개발(교육)
 
 `2021`
 
-- MyTour 여행 스케줄 관리 웹앱 서비스 개발 중
+- MyTour 여행 스케줄 관리 웹앱 서비스 개발 중(공부)
 - Google Cloud Platform 스마트 분석 세미나 연설자로 참여
 - Google Cloud Platform Data Engineer Pro 취득
 - Amazon Web Service Architect Pro 취득(예정)
