@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 
 `2020`
 
-- SAMSUNG SOFTWARE ACADEMY 아이디어 경진대회 1등
 - 사용자 참여형 맛집 추천 서비스(리슐랭) 개발(교육)
 - 냉장고 식재료로 추천 레시피 서비스(석빙고) 개발(교육)
 - 한국외국어대학교 졸업
