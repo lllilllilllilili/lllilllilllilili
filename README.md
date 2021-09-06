@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 - 사용자 참여형 맛집 추천 서비스(리슐랭) 개발(교육)
 - 냉장고 식재료로 추천 레시피 서비스(석빙고) 개발(교육)
 - 한국외국어대학교 졸업
+- SSAFY 아이디어 경진대회 입상
 - 정보처리기사 취득
 - GS WiseN Team 입사 (데이터 엔지니어 포지션)
 - GCP를 활용한 IT분야별 트렌드 분석(Web Application) 서비스 개발(교육)
