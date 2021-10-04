@@ -1,6 +1,6 @@
 ### Hi there 👋👋
 
-github 관리 - Day5
+github 관리 - Day6
 
 <!--
 **lllilllilllilili/lllilllilllilili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
