@@ -63,6 +63,6 @@ Here are some ideas to get you started:
 - Google Cloud Platform 스마트 분석 세미나 강연자 참여
 - Google Cloud Platform Data Engineer Pro 취득
 - AWS Asia(한국,일본,호주) GameDay 10th
-- Amazon Web Service Architect Pro 취득(예정)
 - Amazon Web Service DevOps Pro 취득
+- Amazon Web Service Architect Pro 취득(예정)
 - CKS (Certified Kubernetes Administrator) 취득(예정)
