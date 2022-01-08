@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Wave&color=02d3c6&height=180&section=header&text=Quack%20&fontSize=80&fontColor=fcfdf8&animation=twinkling&rotate=-5)
+![header](https://capsule-render.vercel.app/api?type=Wave&color=030102&height=180&section=header&text=Quack%20&fontSize=80&fontColor=fcfdf8&animation=twinkling&rotate=-5)
 
 <p> <img src="https://komarev.com/ghpvc/?username=lllilllilllilili" alt="hedythedev" /> </p>
 
@@ -26,4 +26,4 @@
 <code><img height="30" src="https://github.com/spring-projects/spring-framework/blob/main/src/docs/spring-framework.png?raw=true"></code>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=Slice&color=02d3c6&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=Slice&color=030102&height=120&section=footer)
