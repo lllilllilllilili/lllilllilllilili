@@ -1,19 +1,29 @@
+
+![header](https://capsule-render.vercel.app/api?type=Wave&color=02d3c6&height=180&section=header&text=Quack%20&fontSize=80&fontColor=fcfdf8&animation=twinkling&rotate=-5)
+
 <p> <img src="https://komarev.com/ghpvc/?username=lllilllilllilili" alt="hedythedev" /> </p>
 
-## GitHub, Language
+## GitHub, Stat!
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lllilllilllilili&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lllilllilllilili&theme=flag-india&show_icons=true" />
+</p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lllilllilllilili)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lllilllilllilili&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## SolvedAC
 
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hik3562)](https://solved.ac/hik3562)
+<p align="center">
+<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hik3562" alt="rank"/>
+</p>
+<!-- [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hik3562)](https://solved.ac/hik3562)
+ -->
+ 
+## Languages and Tools
 
-## Trophy
+<p align="center">
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://github.com/spring-projects/spring-framework/blob/main/src/docs/spring-framework.png?raw=true"></code>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lllilllilllilili&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
-[![status](https://github-readme-streak-stats.herokuapp.com/?user=lllilllilllilili)](#)
-
-## Activity
-
-
+![footer](https://capsule-render.vercel.app/api?type=Slice&color=02d3c6&height=120&section=footer)
