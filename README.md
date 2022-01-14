@@ -3,6 +3,16 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=lllilllilllilili" alt="hedythedev" /> </p>
 
+## Certificate
+
+<code>
+  <img height="200" src="https://arki1.com/wp-content/uploads/2020/10/badge-gcp-professional-cloud-devops-engineer-150x150.png">
+</code>
+<code>
+  <img height="200" src="https://images.credly.com/images/7fbb805d-ea82-4276-a227-e63121a2844b/AWS-DevOpsEngineer-Professional-2020.png">
+</code>
+
+
 ## GitHub, Stat!
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lllilllilllilili&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
