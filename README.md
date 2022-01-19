@@ -6,12 +6,14 @@
 ## Certificate
 
 <code>
+  <img height="200" src="https://miro.medium.com/max/800/1*givlHRRnG6_0l0WPXKng4w.png"/>
+</code>
+<code>
   <img height="200" src="https://arki1.com/wp-content/uploads/2020/10/badge-gcp-professional-cloud-devops-engineer-150x150.png">
 </code>
 <code>
   <img height="200" src="https://images.credly.com/images/7fbb805d-ea82-4276-a227-e63121a2844b/AWS-DevOpsEngineer-Professional-2020.png">
 </code>
-
 
 ## GitHub, Stat!
 <!-- 
@@ -37,9 +39,10 @@
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdhs5chySEb3InTSe3-YJiBqBaOJN6PQr2VNns_oYEllBipgjUp2o-prMW7HdJC0BSzek&usqp=CAU"></code>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=Slice&color=030102&height=120&section=footer)
 
 ## Media
 <p>
   <img align="center" src="https://www.thedailypost.kr/news/photo/202105/81546_75815_4713.jpg"/>
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=Slice&color=030102&height=120&section=footer)
