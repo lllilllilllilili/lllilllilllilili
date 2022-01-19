@@ -38,3 +38,8 @@
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=Slice&color=030102&height=120&section=footer)
+
+## Media
+<p>
+  <img align="center" src="https://www.thedailypost.kr/news/photo/202105/81546_75815_4713.jpg"/>
+</p>
